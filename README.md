@@ -1,4 +1,4 @@
-# lenovo-utility
+# Lenovo Utility
 Lenovo Utility / Lenovo Hotkeys patched to remove CTRL+FN cortana shortcut.
 
 [Download](https://github.com/richmonkeys/lenovo-utility/releases)
