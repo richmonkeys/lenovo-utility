@@ -7,7 +7,8 @@ Lenovo Utility / Lenovo Hotkeys patched to remove CTRL+FN cortana shortcut.
 1. Uninstall Lenovo Utility or Lenovo Hotkeys from your laptop
 2. [Download](https://github.com/richmonkeys/lenovo-utility/releases) the patched program here
 3. Extract the .zip file
-4. Run E0469640.LenovoUtility_4.0.44.0_x64__5grkq8ppsgwt4\LaunchUtility\LaunchUtility.exe (the directory name might vary)
+4. Run E0469640.LenovoUtility_4.0.44.0_x64__5grkq8ppsgwt4\LaunchUtility\LaunchUtility.exe\
+*the directory name may vary
 
 ### (Optional)
 
